@@ -16,16 +16,6 @@ A modern, responsive landing page for a fictional healthy meal delivery service 
 - Utility-first CSS practices
 - Deployment with Netlify
 
-## 📁 Project Structure
-
-omnifood/
-├── index.html
-├── css/
-│ └── style.css
-├── img/
-│ └── \[images used in the project]
-└── README.md
-
 ## 🚀 Deployment
 
 Deployed using [Netlify](https://www.netlify.com/). Every commit to the main branch automatically triggers a deployment.
